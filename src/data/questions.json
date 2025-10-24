@@ -1,114 +1,65 @@
 [
   {
     "type": "choice",
-    "question": "유럽을 동쪽에서 아시아와 구분 짓는 자연 경계는?",
-    "choices": ["알프스산맥", "우랄산맥", "피레네산맥", "카르파티아산맥"],
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/그린피스.png",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
+    "answer": 4
+  },
+  {
+    "type": "choice",
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/금속노조.jpg",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
+    "answer": 5
+  },
+  {
+    "type": "choice",
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/대통령.webp",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
     "answer": 1
   },
   {
     "type": "choice",
-    "question": "서부 유럽에 속하지 않는 국가는?",
-    "choices": ["프랑스", "영국", "독일", "폴란드"],
-    "answer": 3
-  },
-  {
-    "type": "choice",
-    "question": "‘지중해성 기후’가 나타나는 지역은?",
-    "choices": ["노르웨이", "이탈리아", "영국", "폴란드"],
-    "answer": 1
-  },
-  {
-    "type": "choice",
-    "question": "여름에 덥고 건조하며 포도와 올리브 재배가 활발한 기후는?",
-    "choices": ["서안해양성 기후", "냉대 기후", "한대 기후", "지중해성 기후"],
-    "answer": 3
-  },
-  {
-    "type": "choice",
-    "question": "세계 도시로 가장 알맞은 것은?",
-    "choices": ["마드리드", "파리", "리스본", "빈"],
-    "answer": 1
-  },
-  {
-    "type": "choice",
-    "question": "프라이부르크와 암스테르담은 어떤 유형의 도시인가요?",
-    "choices": ["공업 도시", "관광 도시", "생태 도시", "역사 도시"],
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/법원.jpg",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
     "answer": 2
   },
   {
     "type": "choice",
-    "question": "중앙 유럽의 넓은 평원으로 산업과 인구가 밀집된 곳은?",
-    "choices": ["동유럽 평원", "알프스 산맥", "지중해 연안", "발칸 반도"],
-    "answer": 0
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/언론.png",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
+    "answer": 6
   },
   {
     "type": "choice",
-    "question": "백야 현상과 오로라가 나타나는 지역은?",
-    "choices": ["남부 유럽", "북부 유럽", "중앙 유럽", "서부 유럽"],
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/유튜브.png",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
+    "answer": 6
+  },
+  {
+    "type": "choice",
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/의사협회.jpg",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
+    "answer": 5
+  },
+  {
+    "type": "choice",
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/정부.png",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
     "answer": 1
   },
   {
     "type": "choice",
-    "question": "대표적인 첨단 도시는?",
-    "choices": ["헬싱키", "소피아 앙티폴리스", "부다페스트", "암스테르담"],
-    "answer": 1
-  },
-  {
-    "type": "choice",
-    "question": "‘브렉시트’로 유럽연합을 탈퇴한 국가는?",
-    "choices": ["프랑스", "독일", "영국", "스페인"],
-    "answer": 2
-  },
-  {
-    "type": "choice",
-    "question": "유럽연합(EU)의 특징으로 옳지 않은 것은?",
-    "choices": ["공동 경제 활동", "국경 자유 이동", "관세 부과", "공동 화폐 사용"],
-    "answer": 2
-  },
-  {
-    "type": "choice",
-    "question": "분리 독립 움직임이 있는 지역은?",
-    "choices": ["스코틀랜드", "벨기에 - 플랑드르", "카탈루냐", "바스크"],
-    "answer": 1
-  },
-  {
-    "type": "ox",
-    "question": "유럽은 여름과 겨울의 기온 차가 작은 지역이 많다.",
-    "answer": true
-  },
-  {
-    "type": "ox",
-    "question": "영국의 수도는 베를린이다.",
-    "answer": false
-  },
-  {
-    "type": "ox",
-    "question": "파리의 라데팡스는 첨단 업무 단지가 있는 지역이다.",
-    "answer": true
-  },
-  {
-    "type": "ox",
-    "question": "프랑스는 냉대 기후 지역에 속한다.",
-    "answer": false
-  },
-  {
-    "type": "ox",
-    "question": "바르셀로나는 역사·문화 도시이다.",
-    "answer": true
-  },
-  {
-    "type": "ox",
-    "question": "유럽연합은 2023년 기준 27개국이다.",
-    "answer": true
-  },
-  {
-    "type": "ox",
-    "question": "코펜하겐의 아마게르 바케는 시민 휴식 공간이다.",
-    "answer": true
-  },
-  {
-    "type": "ox",
-    "question": "지중해성 기후는 연중 강수량이 많은 기후이다.",
-    "answer": false
+    "question": "다음 그림을 보고 해당하는 정치주체를 고르세요.",
+    "image": "/images/참여연대.png",
+    "choices": ["국회", "정부", "법원", "정당", "시민 단체", "이익 집단", "언론"],
+    "answer": 4
   }
 ]
